@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Niels Kjer] (https://github.com/ntkjer)
 - James Krueger aka Lauwnch
 - [Ivor Hill](https://github.com/ivorhill)
@@ -12244,6 +12244,7 @@
 - [DCSnial](https://github.com/wangyanchang21)
 - [Pawan Yadav](https://github.com/pawanraocse)
 - [Travis Appel](https://github.com/tlappel)
+- [Kursat Yalin](https://github.com/yalinanaliz)
 - [Biplab Mazumder](https://github.com/biplab-ca)
 - [Steve Ctzbee](https://github.com/ctzbee)
 - [Kenny Santiago](https://github.com/cialespr)
